@@ -1,0 +1,13 @@
+C:\wrkspc\Xamarim\EverisEvents\EverisEvents\EverisEvents\bin\Debug\netstandard2.0\EverisEvents.deps.json
+C:\wrkspc\Xamarim\EverisEvents\EverisEvents\EverisEvents\bin\Debug\netstandard2.0\EverisEvents.dll
+C:\wrkspc\Xamarim\EverisEvents\EverisEvents\EverisEvents\bin\Debug\netstandard2.0\EverisEvents.pdb
+C:\wrkspc\Xamarim\EverisEvents\EverisEvents\EverisEvents\obj\Debug\netstandard2.0\EverisEvents.csprojAssemblyReference.cache
+C:\wrkspc\Xamarim\EverisEvents\EverisEvents\EverisEvents\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\wrkspc\Xamarim\EverisEvents\EverisEvents\EverisEvents\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\wrkspc\Xamarim\EverisEvents\EverisEvents\EverisEvents\obj\Debug\netstandard2.0\EverisEvents.csproj.CoreCompileInputs.cache
+C:\wrkspc\Xamarim\EverisEvents\EverisEvents\EverisEvents\obj\Debug\netstandard2.0\EverisEvents.AssemblyInfoInputs.cache
+C:\wrkspc\Xamarim\EverisEvents\EverisEvents\EverisEvents\obj\Debug\netstandard2.0\EverisEvents.AssemblyInfo.cs
+C:\wrkspc\Xamarim\EverisEvents\EverisEvents\EverisEvents\obj\Debug\netstandard2.0\EverisEvents.dll
+C:\wrkspc\Xamarim\EverisEvents\EverisEvents\EverisEvents\obj\Debug\netstandard2.0\EverisEvents.pdb
+C:\wrkspc\Xamarim\EverisEvents\EverisEvents\EverisEvents\obj\Debug\netstandard2.0\XamlC.stamp
+C:\wrkspc\Xamarim\EverisEvents\EverisEvents\EverisEvents\obj\Debug\netstandard2.0\ListarEventos.xaml.g.cs
